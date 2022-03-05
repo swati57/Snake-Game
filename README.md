@@ -1,8 +1,8 @@
-#Snake Game Using C++
+**#Snake Game Using C++**
 
 My first project in C++ is a simple console based snake game. It is a fun gan where snake moves and it has to eat the fruits.
 
-#Some key points
+**#Some key points**
 
 1. The snake can move left, right,up aand down by pressing keys 'a','d','w' and 's' respectively.
 2. The fruit F is visible within the box and when the snake eats that fruit, the length of snake's body increases and the score gets updated.
@@ -10,7 +10,7 @@ My first project in C++ is a simple console based snake game. It is a fun gan wh
 4. The game gets over when the snake touches its own body while moving.
 
 
-#Game recording
+**#Game recording**
 
 
 
